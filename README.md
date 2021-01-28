@@ -1,3 +1,6 @@
+doing a project not tutorial
+
+
 # tut
 
 ## Project setup
